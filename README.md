@@ -40,3 +40,6 @@ Interactive dashboard URL: https://saacooctzwa6sl2o.maps.arcgis.com/apps/instant
 
 Static Map for tree Survival 
 
+Some selected References
+
+A Framework for Reporting Progress on the Malawi's National Forestry Restoration Strategy https://afr100.org/sites/default/files/Monitoring_Malawi_Report_final_web2.pdf
