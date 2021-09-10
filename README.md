@@ -1,4 +1,9 @@
-# TreeMonitoringDashboard
+
+Tree Monitoring - Dashboard
+======
+
+**An interactive Dashboard for monitoring of survival of Trees - a tool for monitoring climate mitigation through tree planting.**
+
 Submission for the ESRI Hack for Sustainable Future
 
 Description
