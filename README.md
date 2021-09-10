@@ -6,14 +6,13 @@ Tree Monitoring - Dashboard
 
 Submission for the ESRI Hack for Sustainable Future
 
-Description
+Description 
+------------
 
-We have utilized ESRI ArcGISRuntime and Xamarin forms to develop a tool for monitoring and visualizng survival of trees. 
-The data is visualized in a dashboard that has been developed using ArcGIS Javascript API. 
+We have utilized ESRI ArcGIS JavaScript API to develop a dashboard for monitoring and communicating tree survival. The data is visualized in a dashboard that has been developed using ArcGIS Javascript API. 
 
-Our main goal is to develop reliable set of tools  that can enable monitoring and verification of carbon storage through tree planting.
-We pilot this project in Lilongwe City (the Capital of the Republic of Malawi) and we seek to deliver it as a service to communities,
-companies and governments. We emerged in the Top four for 2021 European Space Agency (ESA) Corpenicus and Galileo Challenge, on a similar project to build a service that use drone and satellite imagery to
+Our main goal is to develop reliable set of tools  that can enable monitoring, communicating and verification of carbon storage through tree planting.
+We pilot this project using data that was captured by an environmental Youth Club in Lilongwe City in Africa - Lilongwe is the admistratice capital of the Republic of Malawim- and we seek to deliver it as a service to communities, companies and governments. We emerged in the Top four for 2021 European Space Agency (ESA) Corpenicus and Galileo Challenge, on a similar project to build a service that use drone and satellite imagery to
 quantify the actual forest carbon storage (https://copernicus-masters.com/ ). The immersive experiences in that solution were provided as demonstrations.
 
 With regards to 'Hack for Sustainable Future', we developed a tool that uses existing tree records (Lat and Long) to guide monitoring and verification of tree survival status
