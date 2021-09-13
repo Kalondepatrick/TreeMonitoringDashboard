@@ -35,11 +35,11 @@ require(["esri/config", "esri/Map", "esri/views/MapView", "esri/layers/FeatureLa
         popupTemplate: popuptree,
         });
 
-		//Changing the title of tree layer
+	//Changing the title of tree layer
 
-		tree.title = "Tree survival";
+	tree.title = "Tree survival";
         
-		// Adding trees to the map scene 
+	// Adding trees to the map scene 
                 
         map.add(tree, 0);
                 
