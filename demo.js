@@ -42,13 +42,7 @@ require(["esri/config", "esri/Map", "esri/views/MapView", "esri/layers/FeatureLa
 		// Adding trees to the map scene 
                 
         map.add(tree, 0);
-        
-        tree.when(function (map) {
-          document.getElementById("title").innerHTML =
-            map.portalItem.title + " - Expand Widget";
-        });
-
-        
+                
         /********************
          * Add Map Legend 
          ********************/
@@ -64,7 +58,6 @@ require(["esri/config", "esri/Map", "esri/views/MapView", "esri/layers/FeatureLa
          /********************
          * Adding Map slider 
          ********************/
- 
     
     const timeSlider = new TimeSlider({
         container: "SliderDiv",
