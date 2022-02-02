@@ -7,7 +7,7 @@ require(["esri/config", "esri/Map", "esri/views/MapView", "esri/layers/FeatureLa
          ********************/
         
     var map = new Map({
-          basemap: "dark-gray-vector"
+          basemap: "satellite"
         });
 
     var view = new MapView({
